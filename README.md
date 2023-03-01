@@ -9,8 +9,8 @@ Setup is quick! Make sure you already have a notion account created and we will 
 ![](https://files.readme.io/cbbd7c3-create_integration.gif)
 
 ```
-NOTION_API_KEY=secret_XXXXXXXXXXXXXXX
-NOTION_DATABASE_ID=XXXXXXXXXXXXXXX
+NOTION_API_KEY=secret_AL9ucCD6DJI8n0ZBd4zMrBg9cav4mWRuRcDz8XpJoAu
+NOTION_DATABASE_ID=021233f519bc458a87fa1c725986918f
 ```
 
 ---
